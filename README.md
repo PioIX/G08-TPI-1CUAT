@@ -26,21 +26,21 @@ Descripción de la propuesta:
 Vamos a desarrollar una aplicación en la cual se plantean términos para que las personas conozcan datos sobre cómo erradicar la pobreza, generar empleo y tener desarrollo económico. 
 
 
-El juego será un preguntas y respuesta en la cual aparecerá un pregunta junto a 4 respuestas posibles, de ahí hay que elegir la correcta para poder avanzar y sumar un puntaje. En el caso de errar este te devolverá al menú y te anotará tu puntaje en una lista con los mejores puntajes. Y en el caso de avanzar, este seguirá hasta que pierda una pregunta.
-Los nombres de los jugadores y sus puntajes históricos se guardarán en una base de datos; con estos datos se se podrá ver el desarrollo de cada persona, el ranking de puntajes, 
+El juego será un wordle sobre los ODS 1 y 8 en el cual aparecera una informacion abajo o una pregunta sobre cual es la palabra, asi se sabra cual es la palabra a la cual la persona se estaria refiriendo. Pero igual habra un apartado donde apareceran las palabras asi no tendras que saber de la nada cuales son. 
+Los nombres de los jugadores y sus puntajes históricos se guardarán en una base de datos; con estos datos se se podrá ver el desarrollo de cada persona, el ranking de puntajes.
 
 A continuación, especificamos los bocetos de la interfaz de la aplicación.
 
 
-https://image.slidesharecdn.com/juegopreguntadosparacompartir-210616103956/85/juego-preguntados-para-compartir-38-320.jpg?cb=1623840370
+https://album.mediaset.es/eimg/10000/2022/03/29/clipping_lvyw5R_b7f8.jpg?w=1200
 
-https://image.winudf.com/v2/image/Y29tLmV0ZXJtYXguY29iYWx0LmZlbml4X3NjcmVlbl8wXzE1MzM4NDcwNTNfMDAz/screen-0.jpg?fakeurl=1&type=.webp
+https://www.lanacion.com.ar/resizer/Nm5DrNUlTv18s5byBaXsvzicSHo=/1200x800/smart/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/FABOTY2ENRDY3N5DEWA3GPD3EA.jpg
 
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-xrxC-TbmSSSpV-ecnGoVb81hzSSZLYujojUQ2kenEmrL3vjPEvcxdi9sy8Qg6oHaDy4&usqp=CAU
+https://sc2.elpais.com.uy/files/article_default_content/uploads/2022/01/12/61dec7402fd2d.png
 
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJKYbfPL__7bCTGcXcnLZhXdHXH1bvTpqAhK9CQsAoUmqlqnqVl_pDVzhxRgo7BNGEJJw&usqp=CAU
+https://www.lanacion.com.ar/resizer/7hvHMEU3UD_gtEGDmhUP14V9JGg=/1200x800/smart/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/RINWJC7N4BARVFNUBD57ZZIPXU.jpg
 
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRbGw75faOO8vWrxC61npKJd_16u7WPlY0qiuJ1u-lLBm2NR6nPXUpQUM4FndMhsh-as&usqp=CAU
+
 
 
 Maximiliano Eugenio PASINI SABARIS: SQL 
